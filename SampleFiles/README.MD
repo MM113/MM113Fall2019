@@ -12,7 +12,7 @@ Fork the following file on github in your account: ireichert/MM113Fall2019.git
 Then, open the Terminal:
 ```
 
-$ cd #put the path to your local foler here
+$ cd #put the path to your local folder here
 $ git clone YourCloningURL
 $ ls #list the files
 $ open index.html #will open index.html in your default browser
