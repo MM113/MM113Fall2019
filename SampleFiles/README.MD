@@ -18,9 +18,14 @@ $ cd #put the path to your local foler here
 $ git clone YourCloningURL
 $ ls #list the files
 $ open index.html #will open index.html in your default browser
+
+Or use Github Desktop to fork and clone the project
+
+Github desktop is an easy alternative to the command line interface:
+https://desktop.github.com/
 ```
 
-### 2. Open the homework directory in Brackets
+### 2. Open the homework directory in Brackets or VSCode
 
 Make sure the Git extension is installed in Brackets:
 ![alt text](https://github.com/ireichert/MM113Fall2019/blob/master/SampleFiles/images/Screen%20Shot%202019-07-06%20at%203.28.21%20PM.png)
